@@ -26,5 +26,12 @@
 	<b>Contact me:</b><br/>
 	 &nbsp;Discord - ThatsNotLogical#8980 <br/>	</sub><sup>
 	 &nbsp;<a href="https://steamcommunity.com/id/ThatsNotLogical/">Steam</a></sup>
+</div>
 
+<div>
+	<img src="SVG-cards-1.3/ace_of_spades.svg" height="100">
+	<img src="SVG-cards-1.3/king_of_spades2.svg" height="100">
+	<img src="SVG-cards-1.3/queen_of_spades2.svg" height="100">
+	<img src="SVG-cards-1.3/jack_of_spades2.svg" height="100">
+	<img src="SVG-cards-1.3/10_of_spades.svg" height="100">
 </div>
