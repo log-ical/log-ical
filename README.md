@@ -1,7 +1,7 @@
 
 <div align="left">
 	<h1><sub>Hello I'm</sub><br/> &nbsp;<b>Ryan</b> </h1> 
-	A self-taught developer and an aspiring computer science teacher with a fascination with programming, linguistics, and math.
+	A self-taught developer with a fascination with programming, linguistics, and math.
 </div>
 
 <div align="left">  
@@ -25,7 +25,6 @@
 	<sub>
 	<b>Contact me:</b><br/>
 	 &nbsp;Discord - ThatsNotLogical#8980 <br/>	</sub><sup>
-	 &nbsp;<a href="https://steamcommunity.com/id/ThatsNotLogical/">Steam</a></sup>
 </div>
 
 <div>
