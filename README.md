@@ -18,15 +18,3 @@
 <b>Things I Don't Know But Want To Learn: </b>
 * <a href="https://go.dev/">Go</a>
 * <a href="https://julialang.org/">Julia</a><br/><br/>
-
-<sub><b>Contact me:</b><br/>
-&nbsp;Discord - ThatsNotLogical#8980 <br/>	</sub>
-
-
-<div>
-	<img src="SVG-cards-1.3/ace_of_spades.svg" height="100">
-	<img src="SVG-cards-1.3/king_of_spades2.svg" height="100">
-	<img src="SVG-cards-1.3/queen_of_spades2.svg" height="100">
-	<img src="SVG-cards-1.3/jack_of_spades2.svg" height="100">
-	<img src="SVG-cards-1.3/10_of_spades.svg" height="100">
-</div>
