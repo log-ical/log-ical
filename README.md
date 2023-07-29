@@ -1,7 +1,6 @@
 
 <div align="left">
 	<h1><sub>Hello I'm</sub><br/> &nbsp;<b>Ryan</b> </h1> 
-	A self-taught developer with a fascination in programming, linguistics, and math.
 </div>
 
 
